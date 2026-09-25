@@ -1,4 +1,4 @@
-pyrogram
+kurigram
 requests
 cloudscraper
 beautifulsoup4==4.12.2
